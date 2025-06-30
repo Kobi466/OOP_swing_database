@@ -1,1 +1,1 @@
-CRUD
+CRUD Basic + cấu trúc MVC
